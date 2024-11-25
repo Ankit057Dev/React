@@ -1,0 +1,26 @@
+body{
+margin: 0;
+top: 0;
+background-color: rgb(71, 69, 69);
+text-decoration: none;
+font-family: Arial, Sans-serif;
+
+}
+
+.color-picker-container{
+
+  
+  
+  text-align: center;
+
+
+}
+
+.color-picker-container .color-display{
+  height: 24rem;
+  width: 20rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

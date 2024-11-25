@@ -1,0 +1,32 @@
+body{
+  background-image: url('assets/hd.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin:0;
+  background-attachment: fixed;
+  background-position: center  ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height:100vh;
+
+}
+
+.clock-container{
+backdrop-filter: blur(5px);
+width: 100vw;
+padding: 10px 0px;
+}
+
+.clock{
+color: white;
+font-size: 7rem;
+font-weight: bold;
+font-family: monospace ;
+text-align: center;
+text-shadow: 3px 3px 5px rgb(0, 0, 0);
+
+
+
+
+}
