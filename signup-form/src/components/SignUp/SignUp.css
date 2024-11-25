@@ -1,0 +1,51 @@
+.signup-box{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-top: 4.5rem;
+    place-items: center;
+    border: solid ;
+}
+
+.heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+.label{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    border-bottom: 0.1rem solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    font-size: 1.5rem;
+    border: solid;
+}
+.submit-button{
+display: flex;
+flex-direction: column;
+place-items: center;
+margin-top: 2.3rem;
+font-size: 1.2rem;
+}
+
+button{
+    font-size: 1.2rem;
+    width: 40%;
+    border-radius: 7%;
+    border: solid;
+
+}
+
+
+
+

@@ -1,0 +1,9 @@
+*{
+  text-decoration: none;
+}
+
+body{
+  background-color: rgb(110, 158, 177);
+  font-family: Verdana, Geneva, Tahoma, sans-serif ;
+  font-size: 16px;
+}
